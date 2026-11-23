@@ -4,4 +4,6 @@ I made Immerse Handbrake because I couldn’t find a FiveM script, free or paid,
 ### Controls
 Press `Space` once to engage the handbrake. Press `Space` again to release it. That’s the only control.
 
+This is a simple drag and drop script.
+
 **Development notice:** I used AI tools to help develop this script.
